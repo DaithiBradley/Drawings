@@ -31,6 +31,9 @@
         <mxCell id="PM97ogopGYHLB3K-7ULV-6" value="Dublin Office" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.business_center;" vertex="1" parent="1">
           <mxGeometry x="55" y="190" width="90" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="PM97ogopGYHLB3K-7ULV-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PM97ogopGYHLB3K-7ULV-9" target="PM97ogopGYHLB3K-7ULV-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-9" value="Off Site Storage" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
           <mxGeometry x="85" y="460" width="60" height="60" as="geometry" />
         </mxCell>
@@ -45,6 +48,14 @@
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-17" value="2 x 3TB Striped" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
           <mxGeometry x="470" y="40" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PM97ogopGYHLB3K-7ULV-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PM97ogopGYHLB3K-7ULV-18" target="PM97ogopGYHLB3K-7ULV-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="115" />
+              <mxPoint x="730" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-18" value="2 x 3TB Striped" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
           <mxGeometry x="470" y="100" width="50" height="30" as="geometry" />
@@ -99,6 +110,9 @@
               <mxPoint x="610" y="310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PM97ogopGYHLB3K-7ULV-44" value="3TB HDD" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
