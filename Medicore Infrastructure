@@ -16,20 +16,20 @@
         <mxCell id="PM97ogopGYHLB3K-7ULV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PM97ogopGYHLB3K-7ULV-3" target="PM97ogopGYHLB3K-7ULV-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PM97ogopGYHLB3K-7ULV-3" value="VM Server" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+        <mxCell id="PM97ogopGYHLB3K-7ULV-3" value="VM Server (18 VM)" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PM97ogopGYHLB3K-7ULV-4" target="PM97ogopGYHLB3K-7ULV-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PM97ogopGYHLB3K-7ULV-4" value="Backup Server" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
-          <mxGeometry x="320" y="330" width="90" height="100" as="geometry" />
+        <mxCell id="PM97ogopGYHLB3K-7ULV-4" value="Backup Server (3VM)" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PM97ogopGYHLB3K-7ULV-6" target="PM97ogopGYHLB3K-7ULV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-6" value="Dublin Office" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.business_center;" vertex="1" parent="1">
-          <mxGeometry x="55" y="190" width="90" height="100" as="geometry" />
+          <mxGeometry x="70" y="190" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PM97ogopGYHLB3K-7ULV-9" target="PM97ogopGYHLB3K-7ULV-44">
           <mxGeometry relative="1" as="geometry" />
@@ -92,10 +92,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-37" value="3.6 TB HDD" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
-          <mxGeometry x="470" y="330" width="50" height="30" as="geometry" />
+          <mxGeometry x="470" y="340" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-38" value="3.6 TB HDD" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="1">
-          <mxGeometry x="470" y="390" width="50" height="30" as="geometry" />
+          <mxGeometry x="470" y="399" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PM97ogopGYHLB3K-7ULV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PM97ogopGYHLB3K-7ULV-4" target="PM97ogopGYHLB3K-7ULV-38">
           <mxGeometry relative="1" as="geometry" />
@@ -106,8 +106,8 @@
         <mxCell id="PM97ogopGYHLB3K-7ULV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PM97ogopGYHLB3K-7ULV-4" target="PM97ogopGYHLB3K-7ULV-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="365" y="310" />
-              <mxPoint x="610" y="310" />
+              <mxPoint x="365" y="320" />
+              <mxPoint x="610" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
